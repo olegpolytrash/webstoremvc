@@ -1,0 +1,18 @@
+/* navbar */
+.navbar-default {
+	background-image: none;
+	background-color: #e1e1e1;
+	border-color: #E7E7E7;
+}
+
+/* Portrait tablets and medium desktops */
+@media ( min-width : 0px) {
+	.container {
+		width: 1280px !important;
+	}
+}
+
+}
+.container {
+	min-width: 1280px !important;
+}
